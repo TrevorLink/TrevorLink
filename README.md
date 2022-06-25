@@ -1,4 +1,4 @@
-### 又菜又爱打 👋
+### 😫又菜又爱打😫
 
 <!--
 **TrevorLink/TrevorLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrevorLink" /> </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小黄鸭Coding中!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小黄鸭Coding中&center=true&size=27"> </a> </h1>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TrevorLink&theme=xcode" /> </div>
