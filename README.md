@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrevorLink" /> </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小黄鸭今天Coding了吗&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Anything worth doing is worth doing badly the first time.&center=true&size=27"> </a> </h1>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TrevorLink&theme=xcode" /> </div>
